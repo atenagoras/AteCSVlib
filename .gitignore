@@ -1,0 +1,4 @@
+*.o
+funcionou/
+testcsv.c
+testcsv
