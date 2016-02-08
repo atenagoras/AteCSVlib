@@ -1,7 +1,7 @@
 /* Arquivo C com as funções, estruturas e typedefs para implementar processamento    *
  * de arquivos CSV em programas que precisam disso. Eventualmente, haverá um header  *
  * para este arquivo.                                                                *
- * - Próxima versão destas funções devem ser capases de trabalhar com listas         *
+ * - Próxima versão destas funções devem ser capazes de trabalhar com listas         *
  * encadeadas, e alocação de memória para ponteiros de caracteres DENTRO             *
  * da estrutura.                                                                     *
  *                                                                                   *
